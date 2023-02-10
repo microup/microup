@@ -1,5 +1,5 @@
 # Hi Everyone :wave:
-I'm a huge fan of the Go programming language and I'm passionate about it. 
+I'm a huge fan of the Go programming language and I'm passionate about it. I enjoy learning new technologies and also creating useful programs and utilities.
 
 ### 🛠 Tech Stack
 ![Golang](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)&nbsp;
