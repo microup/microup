@@ -1,5 +1,5 @@
 # Hi Everyone :wave:
-I'm a huge fan of the Go programming language and I'm passionate about it. I enjoy learning new technologies and also creating useful programs and utilities.
+I'm a software developer with more than 15 years of experience! I have written and developed code in various languages such as C++, Python, Delphi, and have had some experience with C# and Java. However, currently, I am a big fan of the Go programming language and strive to learn and utilize this fantastic development tool to the fullest. I enjoy learning new technologies and also creating useful programs and utilities.
 
 ### 🛠 Tech Stack
 ![Golang](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)&nbsp;
