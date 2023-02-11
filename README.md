@@ -4,14 +4,13 @@ I'm a software developer with more than 15 years of experience! I have written a
 ### 🛠 Tech Stack
 ![Golang](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-05122A?style=flat&logo=github-actions&logoColor=007ACC)&nbsp;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=microup)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microup&layout=compact)](https://github.com/microup/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microup&layout=compact)](https://github.com/microup/github-readme-stats)
 
 <!--
 **microup/microup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
