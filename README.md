@@ -11,6 +11,8 @@ I'm a software developer with more than 15 years of experience! I have written a
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=microup)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microup&layout=compact)](https://github.com/microup/github-readme-stats) 
+
 <!--
 **microup/microup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
